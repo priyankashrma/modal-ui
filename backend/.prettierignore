@@ -1,8 +1,0 @@
-package.json
-yarn-lock.json
-dist
-node_modules
-.vscode
-src/generated
-.*
-*.md
